@@ -1,4 +1,4 @@
-# Daily Times - BLOG
+# BLOG
 
 A simple blog that allows you create, delete and read posts
 
